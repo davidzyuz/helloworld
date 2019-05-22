@@ -1,0 +1,15 @@
+{
+    "name": "dzyuz/pure",
+    "description": "Another vanilla php web-site",
+    "type": "project",
+    "authors": [
+        {
+            "name": "davidzyuz",
+            "email": "zyuzdavid@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["header.php", "footer.php"]     
+    }
+}
