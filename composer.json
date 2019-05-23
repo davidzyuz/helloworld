@@ -8,7 +8,9 @@
             "email": "zyuzdavid@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "twbs/bootstrap": "^4.3"
+    },
     "autoload": {
         "files": ["header.php", "footer.php"]     
     }
