@@ -12,6 +12,6 @@
         "twbs/bootstrap": "^4.3"
     },
     "autoload": {
-        "files": ["header.php", "footer.php"]     
+        "files": ["includes/functions.php", "includes/config.php"]     
     }
 }
